@@ -14,7 +14,7 @@
     <div class="container-fluid">
         <div class="row">
             <div class="col-12">
-                <h1>Bienvenidos</h1>
+                <h1>Bienvenidos a las practicas de Laravel con Jetstream</h1>
             </div>
         </div>
     </div>
